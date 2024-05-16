@@ -12,11 +12,6 @@ This PowerShell script for Windows allows you to add an SSH public key to a spec
 
 1. Clone or download the script.
 
-```sh
-git clone <your-repository-url>
-cd Add-SSHKeyAndAlias
-```
-
 2. Open a PowerShell terminal and run:
 
 ```powershell
