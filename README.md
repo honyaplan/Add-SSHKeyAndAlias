@@ -22,11 +22,6 @@ This PowerShell script for Windows allows you to add an SSH public key to a spec
 - `<remote_host>`: IP address or hostname of the remote host
 - `<alias>`: Alias to add to the local SSH config
 
-Example:
-
-```powershell
-.\Add-SSHKey.ps1 -U myuser -H example.com -A myalias
-```
 
 ## Script Details
 
